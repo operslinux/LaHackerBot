@@ -1,0 +1,9 @@
+Las funciones son:
+
+/reglas - Para ver las reglas
+
+/sumar - para sumar dos numeros ejemplo: numero1 numero2
+
+/charlar - charlar con el BOT en privado
+
+/info - ver informacion
