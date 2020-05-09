@@ -28,7 +28,6 @@ regex==2020.4.4
 requests==2.23.0
 six==1.14.0
 spacy==2.1.9
-SQLAlchemy==1.2.19
 srsly==1.0.2
 thinc==7.0.8
 tornado==6.0.4
