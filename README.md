@@ -33,7 +33,7 @@ $ apt install git python3
 $ git clone https://github.com/operslinux/LaHackerBot.git
 ```
 ```
-$ cd Opers-Shodan
+$ cd LaHackerBot
 ```
 ```
 $ sudo chmod +x LaHackerBot.py
