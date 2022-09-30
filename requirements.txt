@@ -10,7 +10,7 @@ cymem==2.0.3
 decorator==4.4.2
 future==0.18.2
 idna==2.9
-joblib==0.14.1
+joblib==1.2.0
 mathparse==0.1.2
 murmurhash==1.0.2
 nltk==3.5
